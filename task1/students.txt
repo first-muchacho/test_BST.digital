@@ -1,0 +1,1 @@
+['Sergey', 'Artem', 'Boris', 'Tom', 'Sasha', 'Dante', 'Jery', 'Artur', 'Arsen', 'Hulio', 'Donald', 'Vasya', 'Fedya', 'Petya', 'Jeny', 'Mike', 'Vlad', 'Vladimir', 'Anton', 'Misha']
